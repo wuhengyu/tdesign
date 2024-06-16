@@ -36,9 +36,6 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  },
   "lint-staged": {
     "*.{vue,js,html}": [
       "eslint --fix",
